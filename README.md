@@ -48,6 +48,10 @@
 
 * [ReplaceFuncNameFromLog](https://github.com/alephsecurity/general-research-tools/tree/master/ghidra_scripts/ReplaceFuncNameFromLog) - ReplaceFuncNameFromLog
 
+* [PAGalaxy](https://github.com/PAGalaxyLab/ghidra_scripts) - some useful scripts
+
+* [AngryGhidra](https://github.com/Nalen98/AngryGhidra) - Angr extension
+
 ## Materials
 
 * [リバースエンジニアリングツールGhidra実践ガイド -セキュリティコンテスト入門からマルウェア解析まで- (Compass Booksシリーズ)](https://www.amazon.co.jp/dp/4839973776/) - The Practical guide book to Ghidra written in Japanese
