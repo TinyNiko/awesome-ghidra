@@ -54,6 +54,8 @@
 
 * [WasmLoader](https://github.com/andr3colonel/ghidra_wasm) - Wasm loader
 
+* [jni_helper](https://github.com/evilpan/jni_helper) - jni helper
+
 ## Materials
 
 * [リバースエンジニアリングツールGhidra実践ガイド -セキュリティコンテスト入門からマルウェア解析まで- (Compass Booksシリーズ)](https://www.amazon.co.jp/dp/4839973776/) - The Practical guide book to Ghidra written in Japanese
