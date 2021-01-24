@@ -60,6 +60,8 @@
 
 * [binjo](https://github.com/binjo/ghidra_scripts) - some useful scripts
 
+* [exputils](https://github.com/tacnetsol/ghidra_scripts) - rop finder
+
 ## Materials
 
 * [リバースエンジニアリングツールGhidra実践ガイド -セキュリティコンテスト入門からマルウェア解析まで- (Compass Booksシリーズ)](https://www.amazon.co.jp/dp/4839973776/) - The Practical guide book to Ghidra written in Japanese
